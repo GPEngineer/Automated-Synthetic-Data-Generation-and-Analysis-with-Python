@@ -1,12 +1,12 @@
 # Automated-Synthetic-Data-Generation-and-Analysis-with-Python
 This project demonstrates the full pipeline of data analysis: - Synthetic student dataset generation with Faker (pl_PL localization). - Data enrichment with custom fields (blood type, study fields, research groups, etc.). - Statistical analysis with Pandas. - Export to CSV, Excel, and SQLite. - SQL querying and visualization with Matplotlib.
 
-# 🧪 Automated Synthetic Data Generation
+# Automated Synthetic Data Generation
 
-## 👤 Author
+## Author
 **Grzegorz Pieniak**
 
-## 🎯 Project Overview
+## Project Overview
 This project demonstrates a complete **data analysis pipeline** in Python:
 
 1. **Data Generation**  
@@ -29,7 +29,7 @@ This project demonstrates a complete **data analysis pipeline** in Python:
    - Bar plots (by field, by voivodeship).  
    - Pie chart (research group membership).  
 
-## 📂 Outputs
+## Outputs
 - `studenci_fake.csv`  
 - `studenci_fake.xlsx`  
 - `studenci_fake.db`  
@@ -49,7 +49,7 @@ Average Math Grade by Voivodeship
 Average Grades by Field of Study
 Students in Research Groups (pie chart)
 
-## 🚀 Usage
+## Usage
 ```bash
 pip install faker pandas matplotlib openpyxl
 python grzegorz_pieniak_automatyzacja_generowania_danych.py
